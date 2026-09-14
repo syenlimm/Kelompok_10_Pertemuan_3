@@ -2,17 +2,6 @@
 
 Website satu halaman untuk Kantin 88 Untar, kantin yang berada persis di sebelah Kampus Universitas Tarumanagara di Tomang, Jakarta Barat. Dibuat pakai HTML dan CSS biasa, dengan warna merah dan emas.
 
-## Isi file
-
-```
-.
-├── kantin-88-untar.html
-├── style.css
-└── README.md
-```
-
-`kantin-88-untar.html` isinya struktur dan konten halaman. `style.css` isinya semua tampilan — warna, font, layout, sampai versi mobile.
-
 ## Bagian di halaman
 
 - Hero dengan nama kantin, jam buka, dan tombol ke lokasi
