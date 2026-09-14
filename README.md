@@ -43,7 +43,3 @@ Kalau mau dipublikasikan, tinggal upload kedua file itu ke GitHub Pages, Netlify
 - CSS3
 - Google Fonts (Fraunces & Work Sans)
 - Google Maps Embed
-
-## Catatan
-
-Menu dan harga di halaman ini masih perkiraan, belum dicek langsung ke kantinnya. Kalau sudah punya data menu dan harga yang benar, tinggal ganti di bagian menu pada `kantin-88-untar.html`.
